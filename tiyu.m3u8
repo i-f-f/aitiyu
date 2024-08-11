@@ -1,53 +1,53 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-0
-http://110.178.52.111:8083/udp/239.1.1.11:8011
+http://nas.hssvm.com:8888/rtp/225.1.1.160:5002
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-1
 http://115.171.216.195:4000/udp/225.1.8.20:8004
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-2
 http://czkeji.vip:9000/udp/239.252.219.236:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-3
-http://171.107.72.19:4000/udp/239.81.0.101:4056
+http://115.171.216.195:4000/udp/225.1.8.89:8000
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-4
 http://171.107.72.19:4000/udp/239.81.0.232:4056
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-5
-http://115.171.216.195:4000/udp/225.1.8.89:8000
+http://171.107.72.19:4000/udp/239.81.0.101:4056
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-6
-http://home.yulei.online:9999/rtp/226.0.2.209:9584
+http://120.234.5.29:6000/udp/239.20.0.30:3284
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-7
-http://14.204.46.220:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+http://101.65.34.239:9901/tsfile/live/0005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-8
 http://14.204.46.247:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-9
-https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
+http://14.204.46.220:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-10
-http://101.65.34.239:9901/tsfile/live/0005_1.m3u8?key=txiptv
+https://api.olelive.com/dis/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-11
-http://14.212.185.27:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-12
 http://59.48.75.130:3052/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-12
+http://218.3.138.25:1111/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-13
-http://58.57.21.166:9901/tsfile/live/0005_1.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-14
 http://59.48.75.130:3052/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育-14
+http://218.3.138.25:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事-15
-http://110.178.52.111:8083/udp/239.1.1.12:8012
+http://nas.hssvm.com:8888/rtp/225.1.1.121:5002
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事-16
-http://14.126.127.235:10001/rtp/239.77.1.31:5146
+http://125.82.171.210:8888/udp/235.254.199.121:7980
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事-17
-http://110.178.52.143:8082/udp/239.1.1.12:8012
+http://111.175.164.232:8686/rtp/239.254.96.234:9484$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF89%E3%80%8F
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事-18
 https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事-19
 http://58.57.21.166:9901/tsfile/live/0016_1.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事-20
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031127/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031127
+http://117.27.190.42:9998/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克-21
 http://ipv4.sunjianwu.fun:8800/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克-22
-http://110.178.52.143:8082/udp/239.1.1.122:8122
+http://124.64.11.135:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克-23
-http://nas.hssvm.com:8888/rtp/225.1.2.237:5002
+http://110.178.52.143:8082/udp/239.1.1.122:8122
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克-24
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000008000023253/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023253
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克-25
