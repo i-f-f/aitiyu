@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-08-18T18:53:00.926981+00:00
+#update: 2024-08-18T21:39:33.540603+00:00
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011409534910_94.jpg" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="Sports",[BD]cctv5
@@ -13,123 +13,123 @@ http://14.126.127.235:10001/rtp/239.77.1.31:5146
 http://182.123.211.191:12345/rtp/225.1.4.159:1195
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="Sports",[BD]cctv5 plus
 http://222.90.31.220:8899/rtp/239.111.205.13:5140
-#EXTINF:-1 tvg-name="5 Plus" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/09/20170309022754069464_75.jpg" group-title="News",[BD]cctv-5 plus 高清
+#EXTINF:-1 tvg-name="5 Plus" group-title="News",[BD]cctv-5 plus 高清
 http://113.103.253.56:2000/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-name="America TV" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174407806332_73.png" group-title="Generic",[BD]cctv-4 america (1080p)
+#EXTINF:-1 tvg-name="America TV" group-title="Generic",[BD]cctv-4 america (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-name="CCTV 8K" tvg-logo="https://epg.pw/media/images/channel/2024/08/02/large/20240802033747168256_33.png" group-title="Generic",[SD]cctv-08
+#EXTINF:-1 tvg-name="CCTV 8K" group-title="Generic",[SD]cctv-08
 http://124.128.73.58:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV 8K" tvg-logo="https://epg.pw/media/images/channel/2024/08/02/large/20240802033747168256_33.png" group-title="Generic",[BD]cctv-8
+#EXTINF:-1 tvg-name="CCTV 8K" group-title="Generic",[BD]cctv-8
 http://iptviptv.site:9694/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV News" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509000912953861_27.jpg" group-title="News",[SD]cctvnews
+#EXTINF:-1 tvg-name="CCTV News" group-title="News",[SD]cctvnews
 http://183.3.134.56:9901/tsfile/live/0016_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV News" tvg-logo="https://epg.pw/media/images/channel/2022/05/09/large/20220509000912953861_27.jpg" group-title="News",[BD]cctv-news
+#EXTINF:-1 tvg-name="CCTV News" group-title="News",[BD]cctv-news
 http://113.57.20.158:9901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV-Documentary" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/19/20140519052300032514_79.png" group-title="Knowledge",[BD]cctv
+#EXTINF:-1 tvg-name="CCTV-Documentary" group-title="Knowledge",[BD]cctv
 http://58.57.21.166:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-E" tvg-logo="https://epg.pw/media/img/logo/cctve.jpg" group-title="Other",[BD]cctv-3综艺
+#EXTINF:-1 tvg-name="CCTV-E" group-title="Other",[BD]cctv-3综艺
 http://121.29.91.219:7077/rtp/239.253.92.191:6057
-#EXTINF:-1 tvg-name="CCTV-E" tvg-logo="https://epg.pw/media/img/logo/cctve.jpg" group-title="Other",[BD]cctv-1 综合[ipv6]
+#EXTINF:-1 tvg-name="CCTV-E" group-title="Other",[BD]cctv-1 综合[ipv6]
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-LA" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/30/20150430014359083749_66.png" group-title="Generic",[BD]cctv
+#EXTINF:-1 tvg-name="CCTV-LA" group-title="Generic",[BD]cctv
 http://58.57.21.166:9901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-name="CCTV-LA" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/30/20150430014359083749_66.png" group-title="Generic",[BD]cctv
+#EXTINF:-1 tvg-name="CCTV-LA" group-title="Generic",[BD]cctv
 http://58.57.21.166:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Generic",[BD]cctv1[ipv6]
+#EXTINF:-1 tvg-name="CCTV1" group-title="Generic",[BD]cctv1[ipv6]
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720074359909846_11.png" group-title="Generic",[BD]cctv1
+#EXTINF:-1 tvg-name="CCTV1" group-title="Generic",[BD]cctv1
 http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
-#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="News",[BD]cctv1-综合
+#EXTINF:-1 tvg-name="CCTV1(RTHK33)" group-title="News",[BD]cctv1-综合
 http://36.35.16.98:9901/tsfile/live/0001_18.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV1(RTHK33)" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="News",[BD]cctv1-综合
+#EXTINF:-1 tvg-name="CCTV1(RTHK33)" group-title="News",[BD]cctv1-综合
 http://39.164.202.90:8899/tsfile/live/0001_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="Other",[BD]cctv10[ipv6]
+#EXTINF:-1 tvg-name="CCTV10" group-title="Other",[BD]cctv10[ipv6]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091921731943_14.png" group-title="Other",[BD]cctv10
+#EXTINF:-1 tvg-name="CCTV10" group-title="Other",[BD]cctv10
 http://1.24.190.98:10080/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091841489866_26.png" group-title="Movies",[BD]cctv11
+#EXTINF:-1 tvg-name="CCTV11" group-title="Movies",[BD]cctv11
 http://nas.hssvm.com:8888/rtp/225.1.2.192:5002
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091841489866_26.png" group-title="Movies",[BD]cctv-11
+#EXTINF:-1 tvg-name="CCTV11" group-title="Movies",[BD]cctv-11
 http://118.122.2.29:9999/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091755215949_32.png" group-title="Generic",[BD]cctv12
+#EXTINF:-1 tvg-name="CCTV12" group-title="Generic",[BD]cctv12
 http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091755215949_32.png" group-title="Generic",[BD]cctv12[ipv6]
+#EXTINF:-1 tvg-name="CCTV12" group-title="Generic",[BD]cctv12[ipv6]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="News",[SD]cctv13新闻
+#EXTINF:-1 tvg-name="CCTV13" group-title="News",[SD]cctv13新闻
 http://58.41.27.144:18888/udp/239.45.1.198:5140
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091704389193_97.png" group-title="News",[BD]cctv-13新闻
+#EXTINF:-1 tvg-name="CCTV13" group-title="News",[BD]cctv-13新闻
 http://121.29.91.219:7077/rtp/239.253.92.13:8008
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png" group-title="Kids",[BD]cctv14
+#EXTINF:-1 tvg-name="CCTV14" group-title="Kids",[BD]cctv14
 http://221.0.78.198:1681/hls/10214/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091612944732_44.png" group-title="Kids",[BD]cctv14-少儿
+#EXTINF:-1 tvg-name="CCTV14" group-title="Kids",[BD]cctv14-少儿
 http://61.138.128.226:19901/tsfile/live/0015_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png" group-title="Music",[BD]cctv15[ipv6]
+#EXTINF:-1 tvg-name="CCTV15" group-title="Music",[BD]cctv15[ipv6]
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091532731488_88.png" group-title="Music",[BD]cctv15[ipv6]
+#EXTINF:-1 tvg-name="CCTV15" group-title="Music",[BD]cctv15[ipv6]
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg" group-title="Other",[BD]cctv17
+#EXTINF:-1 tvg-name="CCTV17" group-title="Other",[BD]cctv17
 http://czkeji.vip:9000/udp/239.252.220.192:5140
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.pw/media/images/channel/2022/12/06/large/20221206011506892445_11.jpg" group-title="Other",[BD]cctv17[ipv6]
+#EXTINF:-1 tvg-name="CCTV17" group-title="Other",[BD]cctv17[ipv6]
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png" group-title="News",[BD]cctv2[ipv6]
+#EXTINF:-1 tvg-name="CCTV2" group-title="News",[BD]cctv2[ipv6]
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091427918541_10.png" group-title="News",[HD]cctv2[ipv6]
+#EXTINF:-1 tvg-name="CCTV2" group-title="News",[HD]cctv2[ipv6]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png" group-title="Entertainment",[BD]cctv3
+#EXTINF:-1 tvg-name="CCTV3" group-title="Entertainment",[BD]cctv3
 http://171.107.72.19:4000/udp/239.81.0.231:4056
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091336175188_30.png" group-title="Entertainment",[SD]cctv-03
+#EXTINF:-1 tvg-name="CCTV3" group-title="Entertainment",[SD]cctv-03
 http://124.128.73.58:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="News",[BD]cctv4
+#EXTINF:-1 tvg-name="CCTV4" group-title="News",[BD]cctv4
 http://nas.hssvm.com:8888/rtp/225.1.1.150:5002
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090702247966_28.png" group-title="News",[BD]cctv4
+#EXTINF:-1 tvg-name="CCTV4" group-title="News",[BD]cctv4
 http://111.160.17.2:59901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4 FHD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720094825537344_62.png" group-title="News",[BD]cctv4-国际
+#EXTINF:-1 tvg-name="CCTV4 FHD" group-title="News",[BD]cctv4-国际
 http://39.164.202.90:8899/tsfile/live/0004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV4 FHD" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720094825537344_62.png" group-title="News",[BD]cctv4-国际
+#EXTINF:-1 tvg-name="CCTV4 FHD" group-title="News",[BD]cctv4-国际
 http://fangke.blueswords.com:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV4中文國際歐洲" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520003116532960_83.jpg" group-title="Generic",[BD]cctv-4中文国际
+#EXTINF:-1 tvg-name="CCTV4中文國際歐洲" group-title="Generic",[BD]cctv-4中文国际
 http://121.18.43.254:10000/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4中文國際歐洲" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520003116532960_83.jpg" group-title="Generic",[BD]cctv4中文国际欧洲
+#EXTINF:-1 tvg-name="CCTV4中文國際歐洲" group-title="Generic",[BD]cctv4中文国际欧洲
 http://121.29.91.219:7077/rtp/239.253.93.192:6370
-#EXTINF:-1 tvg-name="CCTV4中文國際美洲" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002852256993_13.jpg" group-title="Generic",[BD]cctv4中文国际
+#EXTINF:-1 tvg-name="CCTV4中文國際美洲" group-title="Generic",[BD]cctv4中文国际
 http://58.41.27.144:18888/udp/239.45.0.2:5140
-#EXTINF:-1 tvg-name="CCTV4中文國際美洲" tvg-logo="https://epg.pw/media/images/channel/2022/05/20/large/20220520002852256993_13.jpg" group-title="Generic",[SD]cctv4中文国际
+#EXTINF:-1 tvg-name="CCTV4中文國際美洲" group-title="Generic",[SD]cctv4中文国际
 http://183.3.134.56:9901/tsfile/live/0004_1.m3u8?key=tvbox6_com&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="Sports",[BD]cctv-9 plus
+#EXTINF:-1 tvg-name="CCTV5+" group-title="Sports",[BD]cctv-9 plus
 http://119.129.172.208:8081/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+(backup)" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728162052248353_31.png" group-title="Sports",[BD]cctv5 plus
+#EXTINF:-1 tvg-name="CCTV5+(backup)" group-title="Sports",[BD]cctv5 plus
 http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/001/2024078003.m3u8
-#EXTINF:-1 tvg-name="CCTV5+(backup)" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728162052248353_31.png" group-title="Sports",[BD]cctv5 plus
+#EXTINF:-1 tvg-name="CCTV5+(backup)" group-title="Sports",[BD]cctv5 plus
 http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="Movies",[BD]cctv6[ipv6]
+#EXTINF:-1 tvg-name="CCTV6" group-title="Movies",[BD]cctv6[ipv6]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134545485583_48.png" group-title="Movies",[BD]cctv6-电影
+#EXTINF:-1 tvg-name="CCTV6" group-title="Movies",[BD]cctv6-电影
 http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091241522711_42.png" group-title="Other",[BD]cctv7
+#EXTINF:-1 tvg-name="CCTV7" group-title="Other",[BD]cctv7
 http://nas.hssvm.com:8888/rtp/225.1.1.138:5002
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091241522711_42.png" group-title="Other",[BD]cctv-7
+#EXTINF:-1 tvg-name="CCTV7" group-title="Other",[BD]cctv-7
 http://219.159.147.195:9901/tsfile/live/1009_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="Movies",[BD]cctv8-电视剧
+#EXTINF:-1 tvg-name="CCTV8" group-title="Movies",[BD]cctv8-电视剧
 http://39.164.202.90:8899/tsfile/live/0008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091148336802_98.png" group-title="Movies",[BD]cctv-8 hd
+#EXTINF:-1 tvg-name="CCTV8" group-title="Movies",[BD]cctv-8 hd
 http://117.27.190.42:9998/tsfile/live/23239_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png" group-title="Knowledge",[BD]cctv9
+#EXTINF:-1 tvg-name="CCTV9" group-title="Knowledge",[BD]cctv9
 http://171.107.72.19:4000/udp/239.81.0.117:4056
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720091000110272_13.png" group-title="Knowledge",[BD]cctv9[ipv6]
+#EXTINF:-1 tvg-name="CCTV9" group-title="Knowledge",[BD]cctv9[ipv6]
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 tvg-name="CCTV第一劇場" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907150153591598_13.jpg" group-title="Movies",[SD]cctv第一剧场
+#EXTINF:-1 tvg-name="CCTV第一劇場" group-title="Movies",[SD]cctv第一剧场
 http://121.19.134.82:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV第一劇場" tvg-logo="https://epg.pw/media/images/channel/2022/09/07/large/20220907150153591598_13.jpg" group-title="Movies",[BD]cctv第一剧场
+#EXTINF:-1 tvg-name="CCTV第一劇場" group-title="Movies",[BD]cctv第一剧场
 http://www.zzlag.top:9087/tsfile/live/1030_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV風雲足球" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="Sports",[BD]cctv风云足球
+#EXTINF:-1 tvg-name="CCTV風雲足球" group-title="Sports",[BD]cctv风云足球
 http://gzcx.shaohong86.cn:8888/rtp/238.255.2.29:5999
-#EXTINF:-1 tvg-name="CCTV風雲足球" tvg-logo="https://epg.pw/media/images/channel/2022/05/10/large/20220510165533742367_97.jpg" group-title="Sports",[BD]cctv风云足球
+#EXTINF:-1 tvg-name="CCTV風雲足球" group-title="Sports",[BD]cctv风云足球
 http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728222635985513_51.png" group-title="Music",[BD]cctv风云音乐
+#EXTINF:-1 tvg-name="CCTV風雲音樂" group-title="Music",[BD]cctv风云音乐
 http://60.10.225.157:555/rtp/239.253.93.253:6431
-#EXTINF:-1 tvg-name="CCTV風雲音樂" tvg-logo="https://epg.pw/media/images/channel/2024/07/28/large/20240728222635985513_51.png" group-title="Music",[BD]cctv风云音乐
+#EXTINF:-1 tvg-name="CCTV風雲音樂" group-title="Music",[BD]cctv风云音乐
 http://gzcx.shaohong86.cn:8888/rtp/238.255.2.24:5999
-#EXTINF:-1 tvg-name="TCCTV-2" tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="Other",[BD]cctv-2
+#EXTINF:-1 tvg-name="TCCTV-2" group-title="Other",[BD]cctv-2
 http://220.231.188.200:8088/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="TCCTV-2" tvg-logo="https://epg.pw/media/img/logo/1_124.jpg" group-title="Other",[BD]cctv-2
+#EXTINF:-1 tvg-name="TCCTV-2" group-title="Other",[BD]cctv-2
 http://219.159.147.195:9901/tsfile/live/1019_1.m3u8?key=txiptv
