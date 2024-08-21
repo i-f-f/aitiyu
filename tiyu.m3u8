@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-08-21T09:00:08.485017+00:00
+#update: 2024-08-21T13:03:17.073163+00:00
 #EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="Sports",[BD]cctv5
@@ -15,7 +15,7 @@ http://182.123.211.191:12345/rtp/225.1.4.159:1195
 http://222.90.31.220:8899/rtp/239.111.205.13:5140
 #EXTINF:-1 tvg-name="5 Plus" group-title="News",[BD]cctv-5 plus 高清
 http://113.103.253.56:2000/udp/239.77.0.87:5146
-#EXTINF:-1 tvg-name="5 Plus" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/09/20170309022754069464_75.jpg" group-title="News",[BD]cctv-5 plus 高清
+#EXTINF:-1 tvg-name="5 Plus" group-title="News",[BD]cctv-5 plus 高清
 http://27.190.24.36:11001/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-name="America TV" group-title="Generic",[BD]cctv-4 america (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -109,11 +109,11 @@ http://119.98.133.130:4000/rtp/239.69.1.123:10376
 http://171.108.239.127:8181/tsfile/live/1031_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5(backup)" group-title="Sports",[BD]cctv5-体育
 http://171.108.239.128:8181/tsfile/live/1031_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV5(h265)" tvg-logo="https://epg.pw/media/images/channel/2024/06/27/large/20240627005720266328_68.jpg" group-title="Sports",[BD]cctv-5hd
+#EXTINF:-1 tvg-name="CCTV5(h265)" group-title="Sports",[BD]cctv-5hd
 http://114.102.38.153:4200/rtp/238.1.78.171:7240
 #EXTINF:-1 tvg-name="CCTV5+" group-title="Sports",[BD]cctv-9 plus
 http://119.129.172.208:8081/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="Sports",[BD]cctv5 plus
+#EXTINF:-1 tvg-name="CCTV5+" group-title="Sports",[BD]cctv5 plus
 http://27.11.62.244:8010/udp/225.0.4.73:7980
 #EXTINF:-1 tvg-name="CCTV5+(backup)" group-title="Sports",[BD]cctv5 plus
 http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/001/2024078003.m3u8
