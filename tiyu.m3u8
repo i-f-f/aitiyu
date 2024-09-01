@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-09-01T16:46:24.171644+00:00
+#update: 2024-09-01T20:44:06.234535+00:00
 #EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="Sports",[BD]cctv5
@@ -11,7 +11,7 @@ http://www.yao87.com:4022/udp/239.76.253.214:9000
 http://14.126.127.235:10001/rtp/239.77.1.31:5146
 #EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",[BD]cctv-5高清
 http://182.123.211.191:12345/rtp/225.1.4.159:1195
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720134814705176_60.png" group-title="Sports",[BD]cctv5 plus
+#EXTINF:-1 tvg-name="CCTV-5+" group-title="Sports",[BD]cctv5 plus
 http://222.90.31.220:8899/rtp/239.111.205.13:5140
 #EXTINF:-1 tvg-name="5 Plus" group-title="News",[BD]cctv-5 plus 高清
 http://113.103.253.56:2000/udp/239.77.0.87:5146
