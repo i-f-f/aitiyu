@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-09-08T20:40:34.789386+00:00
+#update: 2024-09-09T08:49:47.578299+00:00
 #EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720090815574801_94.png" group-title="Sports",[BD]cctv5
@@ -141,7 +141,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://121.19.134.82:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV第一劇場" group-title="Movies",[BD]cctv第一剧场
 http://www.zzlag.top:9087/tsfile/live/1030_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV美洲頻道" tvg-logo="https://epg.pw/media/img/logo/CCTVmeizhou.png" group-title="Other",[HD]cctv-4美洲
+#EXTINF:-1 tvg-name="CCTV美洲頻道" group-title="Other",[HD]cctv-4美洲
 http://hms64nc1972679562.live.aikan.miguvideo.com/wh7f454c46tw2354446312_1254656927/migu/kailu/20200324/cctv4meihd/50/01.m3u8?msisdn=b3523cf2590bd780593a592932ec6f69&Channel_ID=0119_04102000-99000_400300000040002&client_ip=117.148.130.149&timestamp=20240908203308&ContentId=265667335&timezone=UTC&mtv_session=0410cbc747bfb64f8fdcaed3b332c309&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e0192b396ecca053301971776b22139e
 #EXTINF:-1 tvg-name="CCTV風雲足球" group-title="Sports",[BD]cctv风云足球
 http://gzcx.shaohong86.cn:8888/rtp/238.255.2.29:5999
