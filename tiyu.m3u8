@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-09-17T12:57:50.758312+00:00
+#update: 2024-09-17T20:41:49.704878+00:00
 #EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",[BD]cctv5
