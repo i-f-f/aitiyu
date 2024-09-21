@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-09-20T16:45:31.650925+00:00
+#update: 2024-09-21T08:42:19.404364+00:00
 #EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",[BD]cctv5
@@ -151,7 +151,7 @@ http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.10.225.157:555/rtp/239.253.93.253:6431
 #EXTINF:-1 tvg-name="CCTV風雲音樂" group-title="Music",[BD]cctv风云音乐
 http://gzcx.shaohong86.cn:8888/rtp/238.255.2.24:5999
-#EXTINF:-1 tvg-name="Fox Sports Racing" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417173126365437_36.jpg" group-title="Sports",[BD]cctv-12 社会与法[ipv6]
+#EXTINF:-1 tvg-name="Fox Sports Racing" group-title="Sports",[BD]cctv-12 社会与法[ipv6]
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-name="TCCTV-2" group-title="Other",[BD]cctv-2
 http://220.231.188.200:8088/hls/3/index.m3u8
