@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #this file should only be used for testing internent connection. Please reach out for any conent removal request.
-#update: 2024-09-21T20:39:43.390163+00:00
+#update: 2024-09-22T08:44:40.218283+00:00
 #EXTINF:-1 tvg-name="CCTV-16" group-title="Sports",[BD]cctv16
 http://222.90.31.220:8899/rtp/239.111.205.134:5140
 #EXTINF:-1 tvg-name="CCTV-5" group-title="Sports",[BD]cctv5
@@ -37,6 +37,12 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://58.57.21.166:9901/tsfile/live/0008_1.m3u8
 #EXTINF:-1 tvg-name="CCTV-LA" group-title="Generic",[BD]cctv
 http://58.57.21.166:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV-俄語" tvg-logo="https://epg.pw/media/img/logo/4_6.jpg" group-title="Other",[VGA]cctv俄语
+http://hlszymgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/eyu/1000/01.m3u8?msisdn=0723d93cbd0c2f9bcc328e717b9817d7&mdspid=&spid=699004&netType=4&sid=2200179332&pid=2028597139&timestamp=20240922162323&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=609006446&ParentNodeID=-99&assertID=2200179332&client_ip=120.77.28.4&SecurityKey=20240922162323&promotionId=&mvid=2200179332&mcid=500020&playurlVersion=WX-A1-7.9.1-RELEASE&userid=&jmhm=&videocodec=h264&mtv_session=a1837b6cabed20382c0e78d102fd9811&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ae639550fd95292baf0ef7a0efd9c526
+#EXTINF:-1 tvg-name="CCTV-俄語" tvg-logo="https://epg.pw/media/img/logo/4_6.jpg" group-title="Other",[VGA]cctv法语
+http://hlszymgsplive.miguvideo.com:8080/envivo_v/2018/SD/cctv/fayu/1000/01.m3u8?msisdn=34fef4b10d01482e64f2e76e124b9eb1&mdspid=&spid=699004&netType=4&sid=2200179324&pid=2028597139&timestamp=20240922162338&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=609006476&ParentNodeID=-99&assertID=2200179324&client_ip=120.77.28.4&SecurityKey=20240922162338&promotionId=&mvid=2200179324&mcid=500020&playurlVersion=WX-A1-7.9.1-RELEASE&userid=&jmhm=&videocodec=h264&mtv_session=0884fd838fb96f74353764ddc32dff5b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=5793c440d5c98b934eca7fe5b25bd0f8
+#EXTINF:-1 tvg-name="CCTV-阿拉伯語" tvg-logo="https://epg.pw/media/img/logo/3_26.jpg" group-title="Other",[VGA]cctv阿拉伯语
+http://hlszymgsplive.miguvideo.com:8080/envivo_v/SD/cctv/alabo/1000/01.m3u8?msisdn=5a7405354701dfa9cffeb3019a5f26aa&mdspid=&spid=699004&netType=4&sid=2200179303&pid=2028597139&timestamp=20240922162350&Channel_ID=0116_25000303-99000-101700010040002&ProgramID=609154345&ParentNodeID=-99&assertID=2200179303&client_ip=120.77.28.4&SecurityKey=20240922162350&promotionId=&mvid=2200179303&mcid=500020&playurlVersion=WX-A1-7.9.1-RELEASE&userid=&jmhm=&videocodec=h264&mtv_session=bd09e2cc3fa03d867a04259876128e74&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7537dee7fb31cffcc5b4e7ec74b0fa9f
 #EXTINF:-1 tvg-name="CCTV1" group-title="Generic",[BD]cctv1[ipv6]
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" group-title="Generic",[BD]cctv1
